@@ -1,4 +1,4 @@
-"route": {
+{
     "rules": [
       {
         "action": "sniff"
@@ -299,4 +299,4 @@
       }
     ],
     "final": "ServerRU"
-  },
+  }
