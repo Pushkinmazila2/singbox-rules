@@ -294,7 +294,7 @@
         "tag": "geosite-youtube",
         "format": "binary",
         "url": "https://github.com/lyc8503/sing-box-rules/raw/rule-set-geosite/geosite-youtube.srs",
-        "download_detour": "ServerNL",
+        "download_detour": "direct",
         "update_interval": "1d"
       }
     ],
