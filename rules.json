@@ -202,7 +202,7 @@
     "rule_set": [
       {
         "type": "remote",
-        "tag": "geosite-ru-blocked",
+        "tag": "site-ru-block",
         "format": "binary",
         "url": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/sing-box/rule-set-geosite/geosite-ru-blocked.srs",
         "update_interval": "1d",
@@ -210,7 +210,7 @@
       },
       {
         "type": "remote",
-        "tag": "ruleset-domain-torrent_websites",
+        "tag": "torrent_w",
         "format": "binary",
         "url": "https://github.com/burjuyz/RuRulesets/raw/main/ruleset-domain-torrent_websites.srs",
         "download_detour": "direct",
@@ -218,7 +218,7 @@
       },
       {
         "type": "remote",
-        "tag": "ruleset-domain-torrent_trackres",
+        "tag": "torrent_t",
         "format": "binary",
         "url": "https://github.com/burjuyz/RuRulesets/raw/main/ruleset-domain-torrent_trackres.srs",
         "download_detour": "direct",
@@ -226,7 +226,7 @@
       },
       {
         "type": "remote",
-        "tag": "ruleset-ip-antifilter_allyouneed",
+        "tag": "ip-antifilter",
         "format": "binary",
         "url": "https://github.com/burjuyz/RuRulesets/raw/main/ruleset-ip-antifilter_allyouneed.srs",
         "download_detour": "direct",
@@ -234,7 +234,7 @@
       },
       {
         "type": "remote",
-        "tag": "ruleset-domain-antifilter_community",
+        "tag": "domain-antifilter",
         "format": "binary",
         "url": "https://github.com/burjuyz/RuRulesets/raw/main/ruleset-domain-antifilter_community.srs",
         "download_detour": "direct",
@@ -242,7 +242,7 @@
       },
       {
         "type": "remote",
-        "tag": "unbanru-app-list",
+        "tag": "list",
         "format": "binary",
         "url": "https://raw.githubusercontent.com/legiz-ru/sb-rule-sets/main/unbanru-app-list.srs",
         "download_detour": "direct",
@@ -250,7 +250,7 @@
       },
       {
         "type": "remote",
-        "tag": "itdoginfo-inside-russia",
+        "tag": "russia",
         "format": "binary",
         "url": "https://github.com/legiz-ru/sb-rule-sets/raw/main/itdoginfo-inside-russia.srs",
         "download_detour": "direct",
@@ -290,7 +290,7 @@
       },
       {
         "type": "remote",
-        "tag": "geosite-youtube",
+        "tag": "site-youtube",
         "format": "binary",
         "url": "https://github.com/lyc8503/sing-box-rules/raw/rule-set-geosite/geosite-youtube.srs",
         "download_detour": "direct",
