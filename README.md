@@ -1,4 +1,5 @@
 ﻿# Singbox Rules
+[English version](README_EN.md) | Русская версия
 
 [English version below](#english-version)
 
