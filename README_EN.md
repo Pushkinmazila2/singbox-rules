@@ -1,4 +1,5 @@
 ﻿# Singbox Rules
+[English version](README_EN.md) | [Русская версия](README.md)
 
 Ready-to-use routing rules set for s-ui Sing-Box management panel.
 
