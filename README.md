@@ -1,5 +1,5 @@
 ﻿# Singbox Rules
-
+[English version](README_EN.md) | Русская версия
 Готовый набор правил маршрутизации для s-ui панели управления Sing-Box.
 
 ## Описание
